@@ -1,6 +1,6 @@
 /*
 * MONO - A premium template from Designova
-* Author: Designova, http://www.designova.net
+* Author: Designova, https://www.designova.net
 * Copyright (C) 2017 Designova
 * This is a premium product. For licensing queries please contact info@designova.net
 */
